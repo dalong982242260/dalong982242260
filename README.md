@@ -4,5 +4,3 @@
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&locale=en" alt="yixiaolunhui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yixiaolunhui&" alt="yixiaolunhui" /></p>
-
