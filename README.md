@@ -2,9 +2,7 @@
 <h3 align="center">我是一个被开发耽误的电工，电工里最会开发的程序员！</h3>
 
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yixiaolunhui&show_icons=true&locale=en&layout=compact" alt="yixiaolunhui" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&locale=en" alt="yixiaolunhui" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&locale=en" alt="yixiaolunhui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yixiaolunhui&" alt="yixiaolunhui" /></p>
 
