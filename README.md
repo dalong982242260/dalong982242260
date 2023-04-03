@@ -20,7 +20,6 @@
 
 <div align="left">
 <img src="https://files.mdnice.com/user/34651/64e5df67-9f79-4667-9aeb-e26128fae43d.png" data-img="1" width="250" height="250"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://files.mdnice.com/user/34651/e7076f06-61c6-46bb-a682-14dc24ce6f87.png" data-img="2" width="250" height="250"></img>
 </div>
 
 
