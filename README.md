@@ -8,7 +8,11 @@
 
 <img width=100% title="yixiaolunhui" alt="yixiaolunhui"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
+<h3 align="left">我的公众号⚡</h3>
 
+<div align="left">
+<img src="https://files.mdnice.com/user/34651/64e5df67-9f79-4667-9aeb-e26128fae43d.png" data-img="1" width="250" height="250"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 
 
