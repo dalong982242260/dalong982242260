@@ -3,8 +3,6 @@
 
 ## 👋Welcome👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yixiaolunhui&label=Profile%20views&color=0e75b6&style=flat" alt="yixiaolunhui" /> </p>
-
 ![yixiaolunhui github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=yixiaolunhui)
 
 ![yixiaolunhui github-trophies](https://stats.dooboo.io/api/github-trophies?login=yixiaolunhui)
