@@ -1,4 +1,4 @@
-## 👋 Hi, 我是一笑轮回 👋 ~ 我的公众号：“Android小样”
+## 👋 Hi, 我是一笑轮回 👋 | 我的公众号：Android小样
 <h3 align="left">我是一个被开发耽误的电工，电工里最会开发的程序员！</h3>
 <h2>😎 GitHub Stats 😎</h2>
 <div align="center">
