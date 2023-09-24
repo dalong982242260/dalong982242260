@@ -1,26 +1,129 @@
 <h2 align="left">Hi 👋, 我是一笑轮回⚡</h2>
 <h3 align="left">我是一个被开发耽误的电工，电工里最会开发的程序员！</h3>
 
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui&layout=compact&theme=tokyonight" alt="languages" height="165" />
-</p> -->
+## 👋Welcome👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui" alt="my github stats" height="195"  />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui" alt="languages"  height="195"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yixiaolunhui&label=Profile%20views&color=0e75b6&style=flat" alt="yixiaolunhui" /> </p>
+
+![yixiaolunhui github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=yixiaolunhui)
+
+![yixiaolunhui github-trophies](https://stats.dooboo.io/api/github-trophies?login=yixiaolunhui)
+
+<!-- 💗 **My Favorites Techs:** -->
+
+## 💪 Preferred Skill 💪
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+## 🤩 My Major Skill 🤩
 
-
-<!-- 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&locale=en" alt="yixiaolunhui" /></p> -->
-
-<h3 align="left">我的公众号⚡</h3>
-
-<div align="left">
-<img src="https://files.mdnice.com/user/34651/64e5df67-9f79-4667-9aeb-e26128fae43d.png" data-img="1" width="250" height="250"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+</table>
 </div>
+<br />
+
+<h2>😎 GitHub Stats 😎</h2>
+<div align="center">
+    <a href="#"><img alt="yixiaolunhui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui&langs_count=10&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="yixiaolunhui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+</div>
+
+<img width=100% title="yixiaolunhui" alt="yixiaolunhui"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
