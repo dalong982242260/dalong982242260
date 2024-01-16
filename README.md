@@ -7,9 +7,6 @@
 </div>
 
 <img width=100% title="yixiaolunhui" alt="yixiaolunhui"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-<center>Heart-Beats </center>
-
-
 
 <a href=#><img src="contributions.svg"></a>
 
