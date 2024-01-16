@@ -7,6 +7,13 @@
 </div>
 
 <img width=100% title="yixiaolunhui" alt="yixiaolunhui"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<center>Heart-Beats </center>
+
+[![Heart-Beats's github stats](https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href=#><img src="contributions.svg"></a>
 
 
 
