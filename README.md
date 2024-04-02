@@ -2,8 +2,8 @@
 <h3 align="left">我是一个被开发耽误的电工，电工里最会开发的程序员！</h3>
 <h2>😎 GitHub Stats 😎</h2>
 <div align="center">
-      <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&theme=tokyonight" alt="my github stats" height="250px" /></a> 
-    <a href="#"><img alt="yixiaolunhui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui&langs_count=10&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="250px" /></a>
+      <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&theme=tokyonight" alt="my github stats" height="220px" /></a> 
+    <a href="#"><img alt="yixiaolunhui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui&langs_count=10&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="220px" /></a>
     <a href="#"><img src="contributions.svg" height="215px"></a>
 </div>
  
