@@ -3,7 +3,9 @@
 <h2>😎 GitHub Stats 😎</h2>
 <div align="center">
     <a href="#"><img alt="yixiaolunhui's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixiaolunhui&langs_count=10&layout=compact&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <a href="#"><img alt="yixiaolunhui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+<!--     <a href="#"><img alt="yixiaolunhui's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a> -->
+     <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=yixiaolunhui&show_icons=true&theme=tokyonight" alt="my github stats" height="200px" /></a>
+      
     <a href=#><img src="contributions.svg"></a>
 </div>
  
