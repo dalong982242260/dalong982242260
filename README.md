@@ -1,7 +1,7 @@
 ## 👋 Hi, 我是一笑轮回 👋 | 我是一个被开发耽误的电工，电工里最会开发的程序员！
 | CSDN  | 简书 | 掘金 | 公众号|
 |:------|:------:|:------:|:------:|
-|<a href="https://blog.csdn.net/u014741977">点击这里</a> | <a href="https://www.jianshu.com/u/a2df20c0e347">点击这里</a>   |  <a href="https://juejin.cn/user/3157453123108407">点击这里</a>| <a href="https://files.mdnice.com/user/34651/bb88f1d7-2e44-4108-a4a8-537930c53ebb.jpg">点击这里</a>|
+|<a href="https://blog.csdn.net/u014741977">点击这里</a> | <a href="https://www.jianshu.com/u/a2df20c0e347">点击这里</a>   |  <a href="https://juejin.cn/user/3157453123108407">点击这里</a>| <a href="https://files.mdnice.com/user/34651/6bb023c2-c45b-45b8-8929-aa70694ad7a3.jpg">点击这里</a>|
 
 
 <h2>😎 GitHub Stats 😎</h2>
